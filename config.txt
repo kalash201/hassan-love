@@ -1,0 +1,6 @@
+token=NTAyNDg4MDgxODgzMjAxNTY2.DqoqPw.QpXI0NtHlyhXEE1Hablb8cIJRzY
+owner=342908481529184271
+prefix=m
+game=Tybe mhelp
+stayinchannel=true
+songinstatus=false
